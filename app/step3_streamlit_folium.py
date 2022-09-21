@@ -14,7 +14,7 @@ st.set_page_config(
     menu_items={"About": "Data is updated on one minute interval"})
 
 # create a wallpaper in the app
-set_bg("assets/wallpaper.jpg") 
+set_bg("assets/downloads.jpg") 
 
 # create headers and information for the app
 head() 
